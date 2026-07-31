@@ -7,8 +7,8 @@ import websockets #type:ignore
 from pynput import keyboard, mouse #type:ignore
 
 # API Configuration
-BASE_URL = "http://127.0.0.1:8000"
-WS_URL = "ws://127.0.0.1:8000/ws/telemetry"
+BASE_URL = "http://127.0.0.1:8001"
+WS_URL = "ws://127.0.0.1:8001/ws/telemetry"
 
 USERNAME = "admin"
 PASSWORD = "password123"
