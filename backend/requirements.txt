@@ -4,6 +4,7 @@ pydantic
 pydantic-settings
 pyjwt
 passlib[bcrypt]
+bcrypt==3.2.2
 river
 requests
 websockets
