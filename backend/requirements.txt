@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pyjwt
+passlib[bcrypt]
+river
+requests
+websockets
+pynput
