@@ -3,8 +3,8 @@ import json
 import math
 import time
 import requests
-import websockets
-from pynput import keyboard, mouse
+import websockets #type:ignore
+from pynput import keyboard, mouse #type:ignore
 
 # API Configuration
 BASE_URL = "http://127.0.0.1:8000"
