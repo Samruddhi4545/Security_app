@@ -33,7 +33,7 @@ class BehavioralAnomalyDetector:
 
         return anomaly.HalfSpaceTrees(
             n_trees=25,
-            height=15,
+            height=6,
             window_size=100,
             seed=42
         )
